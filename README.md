@@ -131,10 +131,10 @@ To run tests, run the following command:
 - Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
 - LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
 
-👤 **Author - 2** // Write your details here please
-- GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
-- Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
-- LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
+👤 **Author - 2**
+- GitHub: [@githubhandle](https://github.com/devalibello)
+- Twitter: [@twitterhandle](https://twitter.com/i_am_aalee)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-bello-imoukhuede/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
