@@ -1,5 +1,14 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <br/>
+
+  <h3><b>Awesome Books</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -21,135 +30,152 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Capstone-Projec] <a name="about-project"></a>
+# 📖 Capstone Project <a name="about-project"></a>
 
-
-**[Art_Exhibition Website]**This is a complete website project build to provide a Comprehensive Online Platform for Art Enthusiasts
+**Awesome Books** is a project for Microverse bootcamp to learn about adding data into the local storage and then fetching them to display using JavaScript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JS</li>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
+<details>
+  <summary>Java Script</summary>
+  <ul>
+    <li><a href="#">JS</a></li>
+  </ul>
+</details>
+<details>
+<summary>Github</summary>
+  <ul>
+    <li><a href="#">Github</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
-- **[Mobile first Home page ]**
-- **[About page]**
-
-
-- [🚀 Live Demo](#https://www.loom.com/share/4818e9bf34b645b6bd542a759e2538f0)
- Here is the link to the live demo
-
-Here is the link to the video in which the interesting part of the code is discussed
-https://www.loom.com/share/f39eb6ed8af3462f8f05958c9821eb66
+- **Basic UI**
+- **Form Submission to add books**
+- **Storing into the local storage**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- Live Demo: Not Available.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
-
 
 ### Prerequisites
 
 In order to run this project you need:
-you have to have Code editor and Github account to have the source code
 
 ### Setup
 
 Clone this repository to your desired folder:
-git clone https://github.com/Atifzada/Capstone-Project-01
+
+cd my-folder
+git clone git@github.com:myaccount/my-project.git
 
 ### Install
 
-Install this project:
-
+Install this project with:
 
 ### Usage
 
 To run the project, execute the following command:
 
-Once you clone the project then select live server you will see portfolio website displayed on the browser
 
 ### Run tests
 
-To run tests, run the following command: Not Applicable
+To run tests, run the following command:
 
 
 ### Deployment
 
-website is deployed using Github page:
-here is the link
-https://atifzada.github.io/Capstone-Project-01/
+- Deployed at GitHub Pages: Not Applicable
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-- GitHub: [@atifzada](https://github.com/Atifzada)
-- Twitter: [@atifzada](https://twitter.com/atifzada04)
-- LinkedIn: [@atifzada](https://www.linkedin.com/in/atif-zada-585693180/)
+👤 **Author - 1**
+- GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
+- Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
+- LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
 
+👤 **Author - 2** // Write your details here please
+- GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
+- Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
+- LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [Modern-Styling] **[Add contact form and gallary section.]**
-- [Modern-Styling] **[Add form validation.]**
-
+- **Making UI more usable and adding styles**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## 🤝 Contributors:
-@touredri
-@Otega
-@Yusuf
-
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-If you like this project then please give it a star and share with the person who is in need of this project.
+If you like this project you can follow me and give the project a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## Acknowledgements
-Original design by Cindy Shin on [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
-.
+Not applicable.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
 
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
