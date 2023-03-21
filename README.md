@@ -136,6 +136,11 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/i_am_aalee)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-bello-imoukhuede/)
 
+👤 **Author 3 - Edy**
+- GitHub: [@githubhandle](https://github.com/EddxSotz)
+- Twitter: [@twitterhandle](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
