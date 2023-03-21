@@ -4,24 +4,26 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="index.js" defer></script>
+    <link rel="stylesheet" href="index.css">
     <title>Awesome Books</title>
   </head>
   <body>
-    <h1>Awesome Books</h1>
-    <ul id="bookList"></ul>
-    <form id="form">
-      <label for="text">Book Title:</label>
-      <input type="text" id="titleInput" required placeholder="Title" />
-      <br /><br />
-      <label for="text">Author Name:</label>
-      <input
-        type="text"
-        id="authorInput"
-        required
-        placeholder="Author"
-      /><br /><br />
-      <button class="btn" type="submit">Add Book</button>
-    </form>
+    <div class="record">
+        <h1 class="mainTitle">All Awesome Books</h1>
+        <ul id="bookList" class="bookList"> 
+        </ul>
+    </div>
+    <div class="divider"><hr></div>
+    <div class="addition">
+    <div class="empty"></div>
+    <form id="form" class="form">
+        <label for="text" class="title">Add a new Book</label>
+        <div class="inputs">
+            <input type="text" id="titleInput" class="titleInput" required placeholder="Title">
+            <input type="text" id="authorInput" class="authorInput" required placeholder="Author">
+        </div>
+        <button id="btn" class="btn" type="submit">Add Book</button>
+    </div>
+    <script type="module" src="index.js"></script>
   </body>
 </html>
