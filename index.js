@@ -52,6 +52,7 @@ class Books {
 
 const books = new Books();
 const form = document.getElementById('form');
-form.addEventListener('submit', () => {
+form.addEventListener('submit', (event) => {
+  event.preventDefault();
   books.addBook();
 });
