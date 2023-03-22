@@ -8,7 +8,7 @@ class Books {
     this.bookTitle = document.getElementById('titleInput');
     this.bookAuthor = document.getElementById('authorInput');
     this.form = document.getElementById('form');
-    this.booksArray = [];
+    this.booksArray = JSON.parse(localStorage.getItem('Atif'), []);
     if (localStorage.getItem('Atif')) {
       this.booksArray = JSON.parse(localStorage.getItem('Atif'));
       this.displayBooks();
@@ -36,6 +36,7 @@ class Books {
       const li = document.createElement('li');
       li.innerHTML = `"${book.title}" by ${book.author}`;
       const remBtn = document.createElement('button');
+      remBtn.classList.add('remove');
       remBtn.innerHTML = 'Remove';
       remBtn.addEventListener('click', () => this.removeBook(book));
       li.appendChild(remBtn);
