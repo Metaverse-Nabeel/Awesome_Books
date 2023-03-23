@@ -1,12 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <br/>
-
-  <h3><b>Awesome Books</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -15,14 +6,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -32,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Capstone Project <a name="about-project"></a>
+# 📖 Awesome Books <a name="about-project"></a>
 
 **Awesome Books** is a project for Microverse bootcamp to learn about adding data into the local storage and then fetching them to display using JavaScript.
 
@@ -73,14 +61,9 @@
 - **Basic UI**
 - **Form Submission to add books**
 - **Storing into the local storage**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Live Demo: Not Available.
+- **[Desktop Version]**
+- **[Dynamic Design]**
+- **[SPA design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +82,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone git@github.com:myaccount/my-project.git
+git clone https://github.com/Metaverse-Nabeel/Awesome_Books.git
 
 ### Install
 
@@ -113,17 +96,7 @@ Install this project with:
 
 ### Usage
 
-To run the project, execute the following command:
-
-
-### Run tests
-
-To run tests, run the following command:
-
-
-### Deployment
-
-- Deployed at GitHub Pages: Not Applicable
+To run the project, Open index.html in browser.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -132,12 +105,12 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author - 1**
+👤 **Author 1  Nabeel**
 - GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
 - Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
 - LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
 
-👤 **Author - 2**
+👤 **Author 2 - Ali**
 - GitHub: [@githubhandle](https://github.com/devalibello)
 - Twitter: [@twitterhandle](https://twitter.com/i_am_aalee)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-bello-imoukhuede/)
@@ -153,7 +126,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Making UI more usable and adding styles**
+- **Maybe making UI more stylish for users**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +152,7 @@ If you like this project you can follow me and give the project a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Not applicable.
+**Microverse**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
