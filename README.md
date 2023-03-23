@@ -105,12 +105,17 @@ To run the project, Open index.html in browser.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author - 1**
+👤 **Author 1  Nabeel**
 - GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
 - Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
 - LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
 
 👤 **Author - 2**
+- GitHub: [@githubhandle](https://github.com/devalibello)
+- Twitter: [@twitterhandle](https://twitter.com/i_am_aalee)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-bello-imoukhuede/)
+
+👤 **Author 3 - Edy**
 - GitHub: [@githubhandle](https://github.com/EddxSotz)
 - Twitter: [@twitterhandle](https://twitter.com/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/)
@@ -121,7 +126,7 @@ To run the project, Open index.html in browser.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Making UI more usable and adding styles**
+- **Maybe making UI more stylish for users**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
