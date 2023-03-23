@@ -110,7 +110,7 @@ To run the project, Open index.html in browser.
 - Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
 - LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
 
-👤 **Author - 2**
+👤 **Author 2 - Ali**
 - GitHub: [@githubhandle](https://github.com/devalibello)
 - Twitter: [@twitterhandle](https://twitter.com/i_am_aalee)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-bello-imoukhuede/)
