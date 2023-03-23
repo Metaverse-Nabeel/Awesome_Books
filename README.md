@@ -73,6 +73,9 @@
 - **Basic UI**
 - **Form Submission to add books**
 - **Storing into the local storage**
+- **[Desktop Version]**
+- **[Dynamic Design]**
+- **[SPA design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
